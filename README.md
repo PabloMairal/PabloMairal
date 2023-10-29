@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PabloMairal
 - 👀 I’m interested in music, videogames, cooking and animals! Outside of programming, of course.
-- 🌱 I’m currently learning OOP in JavaScript.
-- 📫 You can always DM in Discord: PabloD#7639
+- 🌱 I’m currently learning .NET/C# after working in the University with C++.
+- 📫 You can DM in Discord: pablo7639
